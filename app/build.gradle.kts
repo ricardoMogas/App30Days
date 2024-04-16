@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.main.app30daysrmv"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.main.app30daysrmv"
